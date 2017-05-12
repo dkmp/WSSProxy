@@ -1,1 +1,3 @@
-"# WSSProxy" 
+# WSSProxy
+
+websocket和socket转换代理，主要用于html5 mse通过websocket接入live555和darwin等socket流进行播放
